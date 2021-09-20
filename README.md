@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi there 👋, Bera Yılmazyurt
+#### Design and Development
+![Design and Development](https://i.imgur.com/dSP1SDH.png)
 
-I'm Bera from Turkey, and I do content on Design and Development. I really enjoy learning languages and frameworks lie React and Django, as well as work in Odoo.
+I'm Bera from Turkey, and I do content on Design and Development. I really enjoy learning languages and frameworks lie React and Django, as well as work in Odoo. copy/paste and use in your profile.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bera96)](https://github.com/anuraghazra/github-readme-stats)
+Skills: PYTHON / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
 
 
