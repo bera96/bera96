@@ -8,7 +8,7 @@ I'm Bera from Turkey, and I do content on Design and Development. I really enjoy
 
 * 💻 PYTHON, HTML, CSS, JS
 * :atom: React, Django, Odoo
-- 🔭 I’m currently working at Vis Marin Inc
+- 🔭 I’m currently working at Vis Marin Corp.
 - 🌱 I’m currently learning React.js 
 
 
