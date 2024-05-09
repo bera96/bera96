@@ -6,7 +6,7 @@ I'm Bera from Turkey, and I do content on Design and Development. I really enjoy
 
 ## Skills and Experience
 
-* 💻 PYTHON, HTML, CSS, JS, TS
+* 💻 HTML, CSS, JS, TS, PYTHON, GOLANG
 * :atom: React, Django, Odoo, Node, Express, Next, Nest
 - 🔭 I’m currently working at Kartaca.
 - 🌱 I’m currently working on React.js, Django, Node.js, Nest.js, Next.js.
