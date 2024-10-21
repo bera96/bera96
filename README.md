@@ -21,7 +21,7 @@ class SoftwareDeveloper:
         },
         "backend": {
             "js": ["Node", "Express", "NestJS"],
-            "python": ["Django", "Odoo", Flask"],
+            "python": ["Django", "Odoo", "Flask"],
         },
         "mobile": {
             crossPlatform: ["React Native"],
