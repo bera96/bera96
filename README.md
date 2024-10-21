@@ -8,23 +8,25 @@
 class SoftwareDeveloper:
 
     def __init__(self):
-        self.name = "Bera Yılmazyurt" 
+        self.name = "Bera Yılmazyurt"
+        self.country = "Turkey"
+        self.city = "Istanbul"
         self.role = "Software Developer"
         self.language_spoken = ["tr_TR", "en_US"]
         self.technologies = {
-        "frontEnd": {
+        "frontend": {
             "js": ["React", "Next.js"],
             "css": ["Sass", "Tailwind", "Bootstrap"],
             "uiLibraries": ["Material UI", "Ant Design", "Chakra UI"],
         },
-        "backEnd": {
+        "backend": {
             "js": ["Node", "Express", "NestJS"],
             "python": ["Django", "Odoo", Flask"],
         },
-        "mobileApp": {
+        "mobile": {
             crossPlatform: ["React Native"],
         },
-        "devOps": ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
+        "devops": ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
         "databases": ["PostgreSQL", "MongoDB", "MySQL", "SQLite", "Firebase Realtime DB", "redis"],
         "misc": ["Socket.IO", "REST APIs", "WebSockets"]
     },
