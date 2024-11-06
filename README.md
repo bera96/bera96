@@ -18,6 +18,10 @@ class SoftwareDeveloper:
             "js": ["React", "Next.js"],
             "css": ["Sass", "Tailwind", "Bootstrap"],
             "uiLibraries": ["Material UI", "Ant Design", "Chakra UI"],
+            "microFrontend": {
+                "architectures": ["Module Federation", "Single-SPA"],
+                "integrations": ["Webpack", "Vite"],
+            },
         },
         "backend": {
             "js": ["Node", "Express", "NestJS"],
