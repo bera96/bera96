@@ -18,7 +18,7 @@ class SoftwareDeveloper:
             "js": ["React", "Next.js"],
             "css": ["Sass", "Tailwind", "Bootstrap"],
             "uiLibraries": ["Material UI", "Ant Design", "Chakra UI"],
-            "microFrontend": {
+            "micro_frontend": {
                 "architectures": ["Module Federation", "Single-SPA"],
                 "integrations": ["Webpack", "Vite"],
             },
